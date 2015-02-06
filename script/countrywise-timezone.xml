@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timezone-data>
+   <country>
+      <country-code>LV</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Riga</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>HK</country-code>
+      <timezones>
+         <timezone>
+            <code>Hongkong</code>
+            <name>Hong Kong Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Hong_Kong</code>
+            <name>Hong Kong Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>LU</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Luxembourg</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>ZA</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Johannesburg</code>
+            <name>South Africa Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>LT</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Vilnius</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>HN</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Tegucigalpa</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>EC</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Guayaquil</code>
+            <name>Ecuador Time</name>
+         </timezone>
+         <timezone>
+            <code>Pacific/Galapagos</code>
+            <name>Galapagos Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>LY</country-code>
+      <timezones>
+         <timezone>
+            <code>Libya</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Africa/Tripoli</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>VN</country-code>
+      <timezones>
+         <timezone>
+            <code>VST</code>
+            <name>Indochina Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Saigon</code>
+            <name>Indochina Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>HR</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Zagreb</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>RO</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Bucharest</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>DZ</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Algiers</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>HU</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Budapest</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>VE</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Caracas</code>
+            <name>Venezuela Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>DO</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Santo_Domingo</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>ME</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Podgorica</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>MK</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Skopje</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>DE</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Berlin</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>ID</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Ujung_Pandang</code>
+            <name>Central Indonesia Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Makassar</code>
+            <name>Central Indonesia Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Jakarta</code>
+            <name>West Indonesia Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Jayapura</code>
+            <name>East Indonesia Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Pontianak</code>
+            <name>West Indonesia Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>UY</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Montevideo</code>
+            <name>Uruguay Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>MA</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Casablanca</code>
+            <name>Western European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>DK</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Copenhagen</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IE</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Dublin</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>Eire</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>AT</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Vienna</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>MX</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Hermosillo</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Chihuahua</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Merida</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Mexico/General</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Mexico_City</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Mexico/BajaSur</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Mazatlan</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Mexico/BajaNorte</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Tijuana</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Ensenada</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Monterrey</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Cancun</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>US</country-code>
+      <timezones>
+         <timezone>
+            <code>America/North_Dakota/New_Salem</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Phoenix</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>PNT</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Arizona</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Kentucky/Monticello</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Louisville</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Kentucky/Louisville</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Eastern</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/New_York</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Yakutat</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/PST8PDT</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Boise</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Vincennes</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/North_Dakota/Center</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Nome</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indianapolis</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Fort_Wayne</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Indianapolis</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>IET</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/East-Indiana</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Petersburg</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Pacific-New</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Pacific</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Los_Angeles</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>PST</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>AST</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Anchorage</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Chicago</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>CST</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Alaska</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Central</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Menominee</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Hawaii</code>
+            <name>Hawaii Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Pacific/Honolulu</code>
+            <name>Hawaii Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Michigan</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Detroit</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/EST5EDT</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Marengo</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/MST7MDT</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Indiana-Starke</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Knox_IN</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Winamac</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Knox</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/CST6CDT</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Vevay</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Indiana/Tell_City</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Juneau</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Adak</code>
+            <name>Hawaii-Aleutian Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Atka</code>
+            <name>Hawaii-Aleutian Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Aleutian</code>
+            <name>Hawaii-Aleutian Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>US/Mountain</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Denver</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Shiprock</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Navajo</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/YST9YDT</code>
+            <name>Alaska Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>AR</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Catamarca</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Catamarca</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/ComodRivadavia</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/San_Juan</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Ushuaia</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Rio_Gallegos</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/La_Rioja</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Buenos_Aires</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>AGT</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Buenos_Aires</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Tucuman</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Rosario</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Mendoza</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Cordoba</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Cordoba</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Mendoza</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Jujuy</code>
+            <name>Argentine Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Argentina/Jujuy</code>
+            <name>Argentine Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IL</country-code>
+      <timezones>
+         <timezone>
+            <code>Israel</code>
+            <name>Israel Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Tel_Aviv</code>
+            <name>Israel Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Jerusalem</code>
+            <name>Israel Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IN</country-code>
+      <timezones>
+         <timezone>
+            <code>IST</code>
+            <name>India Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Calcutta</code>
+            <name>India Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>MY</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Kuching</code>
+            <name>Malaysia Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Kuala_Lumpur</code>
+            <name>Malaysia Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>QA</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Qatar</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>AU</country-code>
+      <timezones>
+         <timezone>
+            <code>Australia/Adelaide</code>
+            <name>Central Standard Time (South Australia)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/South</code>
+            <name>Central Standard Time (South Australia)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Eucla</code>
+            <name>Central Western Standard Time (Australia)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Lindeman</code>
+            <name>Eastern Standard Time (Queensland)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/LHI</code>
+            <name>Lord Howe Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Lord_Howe</code>
+            <name>Lord Howe Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Canberra</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/ACT</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>AET</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Melbourne</code>
+            <name>Eastern Standard Time (Victoria)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/NSW</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Sydney</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Victoria</code>
+            <name>Eastern Standard Time (Victoria)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Hobart</code>
+            <name>Eastern Standard Time (Tasmania)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Darwin</code>
+            <name>Central Standard Time (Northern Territory)</name>
+         </timezone>
+         <timezone>
+            <code>ACT</code>
+            <name>Central Standard Time (Northern Territory)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/North</code>
+            <name>Central Standard Time (Northern Territory)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Tasmania</code>
+            <name>Eastern Standard Time (Tasmania)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Perth</code>
+            <name>Western Standard Time (Australia)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/West</code>
+            <name>Western Standard Time (Australia)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Currie</code>
+            <name>Eastern Standard Time (New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Yancowinna</code>
+            <name>Central Standard Time (South Australia/New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Broken_Hill</code>
+            <name>Central Standard Time (South Australia/New South Wales)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Brisbane</code>
+            <name>Eastern Standard Time (Queensland)</name>
+         </timezone>
+         <timezone>
+            <code>Australia/Queensland</code>
+            <name>Eastern Standard Time (Queensland)</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IQ</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Baghdad</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>YE</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Aden</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IS</country-code>
+      <timezones>
+         <timezone>
+            <code>Iceland</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>Atlantic/Reykjavik</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>IT</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Rome</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BA</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Sarajevo</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>MT</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Malta</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PT</country-code>
+      <timezones>
+         <timezone>
+            <code>Portugal</code>
+            <name>Western European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Lisbon</code>
+            <name>Western European Time</name>
+         </timezone>
+         <timezone>
+            <code>Atlantic/Azores</code>
+            <name>Azores Time</name>
+         </timezone>
+         <timezone>
+            <code>Atlantic/Madeira</code>
+            <name>Western European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>UA</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Kiev</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Zaporozhye</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Uzhgorod</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Simferopol</code>
+            <name>Moscow Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>NI</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Managua</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>ES</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Ceuta</code>
+            <name>Central European Time</name>
+         </timezone>
+         <timezone>
+            <code>Atlantic/Canary</code>
+            <name>Western European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Madrid</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>NL</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Amsterdam</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PR</country-code>
+      <timezones>
+         <timezone>
+            <code>PRT</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Puerto_Rico</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>AE</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Dubai</code>
+            <name>Gulf Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>AL</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Tirane</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>EG</country-code>
+      <timezones>
+         <timezone>
+            <code>Egypt</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Africa/Cairo</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>ART</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>EE</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Tallinn</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PY</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Asuncion</code>
+            <name>Paraguay Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>TW</country-code>
+      <timezones>
+         <timezone>
+            <code>GMT</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Taipei</code>
+            <name>China Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>JP</country-code>
+      <timezones>
+         <timezone>
+            <code>Japan</code>
+            <name>Japan Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>JST</code>
+            <name>Japan Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Tokyo</code>
+            <name>Japan Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BY</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Minsk</code>
+            <name>Further-eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>NZ</country-code>
+      <timezones>
+         <timezone>
+            <code>Pacific/Chatham</code>
+            <name>Chatham Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>NZ-CHAT</code>
+            <name>Chatham Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Pacific/Auckland</code>
+            <name>New Zealand Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>NZ</code>
+            <name>New Zealand Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>NST</code>
+            <name>New Zealand Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>JO</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Amman</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BR</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Bahia</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>Brazil/West</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Cuiaba</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Manaus</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Belem</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>Brazil/East</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>BET</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Sao_Paulo</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Campo_Grande</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Porto_Velho</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>Brazil/Acre</code>
+            <name>Acre Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Rio_Branco</code>
+            <name>Acre Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Porto_Acre</code>
+            <name>Acre Time</name>
+         </timezone>
+         <timezone>
+            <code>Brazil/DeNoronha</code>
+            <name>Fernando de Noronha Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Noronha</code>
+            <name>Fernando de Noronha Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Boa_Vista</code>
+            <name>Amazon Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Recife</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Eirunepe</code>
+            <name>Acre Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Maceio</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Araguaina</code>
+            <name>Brasilia Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Fortaleza</code>
+            <name>Brasilia Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>GB</country-code>
+      <timezones>
+         <timezone>
+            <code>GB-Eire</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>GB</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/London</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Belfast</code>
+            <name>Greenwich Mean Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>TH</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Bangkok</code>
+            <name>Indochina Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>TN</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Tunis</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CA</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Swift_Current</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Yellowknife</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Goose_Bay</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Thunder_Bay</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Dawson</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Newfoundland</code>
+            <name>Newfoundland Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>CNT</code>
+            <name>Newfoundland Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/St_Johns</code>
+            <name>Newfoundland Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Eastern</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Toronto</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Cambridge_Bay</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Yukon</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Whitehorse</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Coral_Harbour</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Atikokan</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Dawson_Creek</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Mountain</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Edmonton</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>SystemV/AST4ADT</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Glace_Bay</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Resolute</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Atlantic</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Halifax</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Inuvik</code>
+            <name>Mountain Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Pangnirtung</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Pacific</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Vancouver</code>
+            <name>Pacific Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Central</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Winnipeg</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/Saskatchewan</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Canada/East-Saskatchewan</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Regina</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Iqaluit</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Rankin_Inlet</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Nipigon</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Moncton</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Blanc-Sablon</code>
+            <name>Atlantic Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Rainy_River</code>
+            <name>Central Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Montreal</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>TR</country-code>
+      <timezones>
+         <timezone>
+            <code>Turkey</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Istanbul</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Istanbul</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>NO</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Oslo</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>OM</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Muscat</code>
+            <name>Gulf Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>FR</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Paris</code>
+            <name>Central European Time</name>
+         </timezone>
+         <timezone>
+            <code>ECT</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SV</country-code>
+      <timezones>
+         <timezone>
+            <code>America/El_Salvador</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BG</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Sofia</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BH</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Bahrain</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SY</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Damascus</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BE</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Brussels</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>BO</country-code>
+      <timezones>
+         <timezone>
+            <code>America/La_Paz</code>
+            <name>Bolivia Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>FI</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Helsinki</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CZ</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Prague</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SD</country-code>
+      <timezones>
+         <timezone>
+            <code>Africa/Khartoum</code>
+            <name>Eastern African Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CY</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Nicosia</code>
+            <name>Eastern European Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Nicosia</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SE</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Stockholm</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>KR</country-code>
+      <timezones>
+         <timezone>
+            <code>ROK</code>
+            <name>Korea Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Seoul</code>
+            <name>Korea Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SG</country-code>
+      <timezones>
+         <timezone>
+            <code>Singapore</code>
+            <name>Singapore Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Singapore</code>
+            <name>Singapore Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CS</country-code>
+      <timezones />
+   </country>
+   <country>
+      <country-code>SI</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Ljubljana</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>KW</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Kuwait</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SK</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Bratislava</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PL</country-code>
+      <timezones>
+         <timezone>
+            <code>Poland</code>
+            <name>Central European Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Warsaw</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>RS</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Belgrade</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>GT</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Guatemala</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>LB</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Beirut</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CH</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Zurich</code>
+            <name>Central European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>RU</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Volgograd</code>
+            <name>Volgograd Time</name>
+         </timezone>
+         <timezone>
+            <code>W-SU</code>
+            <name>Moscow Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Moscow</code>
+            <name>Moscow Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Irkutsk</code>
+            <name>Irkutsk Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Vladivostok</code>
+            <name>Vladivostok Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Novosibirsk</code>
+            <name>Novosibirsk Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Samara</code>
+            <name>Samara Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Krasnoyarsk</code>
+            <name>Krasnoyarsk Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Yekaterinburg</code>
+            <name>Yekaterinburg Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Omsk</code>
+            <name>Omsk Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Sakhalin</code>
+            <name>Sakhalin Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Magadan</code>
+            <name>Magadan Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Yakutsk</code>
+            <name>Yakutsk Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Anadyr</code>
+            <name>Anadyr Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Kamchatka</code>
+            <name>Petropavlovsk-Kamchatski Time</name>
+         </timezone>
+         <timezone>
+            <code>Europe/Kaliningrad</code>
+            <name>Further-eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PH</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Manila</code>
+            <name>Philippines Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>GR</country-code>
+      <timezones>
+         <timezone>
+            <code>Europe/Athens</code>
+            <name>Eastern European Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PE</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Lima</code>
+            <name>Peru Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CR</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Costa_Rica</code>
+            <name>Central Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CO</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Bogota</code>
+            <name>Colombia Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CN</country-code>
+      <timezones>
+         <timezone>
+            <code>PRC</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>CTT</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Shanghai</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Harbin</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Urumqi</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Chungking</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Chongqing</code>
+            <name>China Standard Time</name>
+         </timezone>
+         <timezone>
+            <code>Asia/Kashgar</code>
+            <name>China Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>PA</country-code>
+      <timezones>
+         <timezone>
+            <code>America/Panama</code>
+            <name>Eastern Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>SA</country-code>
+      <timezones>
+         <timezone>
+            <code>Asia/Riyadh</code>
+            <name>Arabia Standard Time</name>
+         </timezone>
+      </timezones>
+   </country>
+   <country>
+      <country-code>CL</country-code>
+      <timezones>
+         <timezone>
+            <code>Chile/Continental</code>
+            <name>Chile Time</name>
+         </timezone>
+         <timezone>
+            <code>America/Santiago</code>
+            <name>Chile Time</name>
+         </timezone>
+         <timezone>
+            <code>Pacific/Easter</code>
+            <name>Easter Is. Time</name>
+         </timezone>
+         <timezone>
+            <code>Chile/EasterIsland</code>
+            <name>Easter Is. Time</name>
+         </timezone>
+      </timezones>
+   </country>
+</timezone-data>
