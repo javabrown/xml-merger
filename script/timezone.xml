@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timezones>
+   <timezone>
+      <timezone-code>EDT</timezone-code>
+      <timezone-name>America/New_York</timezone-name>
+   </timezone>
+   <timezone>
+      <timezone-code>GMT</timezone-code>
+      <timezone-name>GMT</timezone-name>
+   </timezone>
+   <timezone>
+      <timezone-code>AST</timezone-code>
+      <timezone-name>America/Halifax</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>IRST</timezone-code>
+      <timezone-name>Asia/Tehran</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>ICT</timezone-code>
+      <timezone-name>Asia/Bangkok</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>PET</timezone-code>
+      <timezone-name>America/Lima</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>KST</timezone-code>
+      <timezone-name>Asia/Seoul</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>PST</timezone-code>
+      <timezone-name>America/Los_Angeles</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CDT</timezone-code>
+      <timezone-name>America/Chicago</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>EEST</timezone-code>
+      <timezone-name>Europe/Istanbul</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>NZDT</timezone-code>
+      <timezone-name>Pacific/Auckland</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>WEST</timezone-code>
+      <timezone-name>Europe/Lisbon</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>EAT</timezone-code>
+      <timezone-name>Africa/Addis_Ababa</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>HKT</timezone-code>
+      <timezone-name>Asia/Hong_Kong</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>IST</timezone-code>
+      <timezone-name>Asia/Calcutta</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>MDT</timezone-code>
+      <timezone-name>America/Denver</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>NZST</timezone-code>
+      <timezone-name>Pacific/Auckland</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>WIT</timezone-code>
+      <timezone-name>Asia/Jakarta</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>ADT</timezone-code>
+      <timezone-name>America/Halifax</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>BST</timezone-code>
+      <timezone-name>Europe/London</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>ART</timezone-code>
+      <timezone-name>America/Argentina/Buenos_Aires</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CAT</timezone-code>
+      <timezone-name>Africa/Harare</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>GST</timezone-code>
+      <timezone-name>Asia/Dubai</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>PDT</timezone-code>
+      <timezone-name>America/Los_Angeles</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>SGT</timezone-code>
+      <timezone-name>Asia/Singapore</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>COT</timezone-code>
+      <timezone-name>America/Bogota</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>PKT</timezone-code>
+      <timezone-name>Asia/Karachi</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>EET</timezone-code>
+      <timezone-name>Europe/Istanbul</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>UTC</timezone-code>
+      <timezone-name>UTC</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>WAT</timezone-code>
+      <timezone-name>Africa/Lagos</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>EST</timezone-code>
+      <timezone-name>America/New_York</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>JST</timezone-code>
+      <timezone-name>Asia/Tokyo</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CLST</timezone-code>
+      <timezone-name>America/Santiago</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CET</timezone-code>
+      <timezone-name>Europe/Paris</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>BDT</timezone-code>
+      <timezone-name>Asia/Dhaka</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>MSK</timezone-code>
+      <timezone-name>Europe/Moscow</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>AKDT</timezone-code>
+      <timezone-name>America/Juneau</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CLT</timezone-code>
+      <timezone-name>America/Santiago</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>AKST</timezone-code>
+      <timezone-name>America/Juneau</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>BRST</timezone-code>
+      <timezone-name>America/Sao_Paulo</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>BRT</timezone-code>
+      <timezone-name>America/Sao_Paulo</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CEST</timezone-code>
+      <timezone-name>Europe/Paris</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>CST</timezone-code>
+      <timezone-name>America/Chicago</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>HST</timezone-code>
+      <timezone-name>Pacific/Honolulu</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>MSD</timezone-code>
+      <timezone-name>Europe/Moscow</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>MST</timezone-code>
+      <timezone-name>America/Denver</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>PHT</timezone-code>
+      <timezone-name>Asia/Manila</timezone-name>
+   </timezone>
+   <timezone>
+   
+      <timezone-code>WET</timezone-code>
+      <timezone-name>Europe/Lisbon</timezone-name>
+   </timezone>
+</timezones>
