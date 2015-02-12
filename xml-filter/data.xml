@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <bean class="timeZone">
+      <property name="name" value="America/New_York" />
+      <property name="code" value="EDT" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="GMT" />
+      <property name="code" value="GMT" />
+      <property name="countryCode" value="TW" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Halifax" />
+      <property name="code" value="AST" />
+      <property name="countryCode" value="CA" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Tehran" />
+      <property name="code" value="IRST" />
+      <property name="countryCode" value="IR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Bangkok" />
+      <property name="code" value="ICT" />
+      <property name="countryCode" value="TH" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Lima" />
+      <property name="code" value="PET" />
+      <property name="countryCode" value="PE" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Seoul" />
+      <property name="code" value="KST" />
+      <property name="countryCode" value="KR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Los_Angeles" />
+      <property name="code" value="PST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Chicago" />
+      <property name="code" value="CDT" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Istanbul" />
+      <property name="code" value="EEST" />
+      <property name="countryCode" value="TR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Pacific/Auckland" />
+      <property name="code" value="NZDT" />
+      <property name="countryCode" value="NZ" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Lisbon" />
+      <property name="code" value="WEST" />
+      <property name="countryCode" value="PT" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Africa/Addis_Ababa" />
+      <property name="code" value="EAT" />
+      <property name="countryCode" value="ET" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Hong_Kong" />
+      <property name="code" value="HKT" />
+      <property name="countryCode" value="HK" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Calcutta" />
+      <property name="code" value="IST" />
+      <property name="countryCode" value="IN" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Denver" />
+      <property name="code" value="MDT" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Pacific/Auckland" />
+      <property name="code" value="NZST" />
+      <property name="countryCode" value="NZ" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Jakarta" />
+      <property name="code" value="WIT" />
+      <property name="countryCode" value="ID" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Halifax" />
+      <property name="code" value="ADT" />
+      <property name="countryCode" value="CA" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/London" />
+      <property name="code" value="BST" />
+      <property name="countryCode" value="GB" />
+      <property name="countryAlpha3Code" value="ENG" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Argentina/Buenos_Aires" />
+      <property name="code" value="ART" />
+      <property name="countryCode" value="AR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Africa/Harare" />
+      <property name="code" value="CAT" />
+      <property name="countryCode" value="ZW" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Dubai" />
+      <property name="code" value="GST" />
+      <property name="countryCode" value="AE" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Los_Angeles" />
+      <property name="code" value="PDT" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Singapore" />
+      <property name="code" value="SGT" />
+      <property name="countryCode" value="SG" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Bogota" />
+      <property name="code" value="COT" />
+      <property name="countryCode" value="CO" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Karachi" />
+      <property name="code" value="PKT" />
+      <property name="countryCode" value="PK" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Istanbul" />
+      <property name="code" value="EET" />
+      <property name="countryCode" value="TR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="UTC" />
+      <property name="code" value="UTC" />
+      <property name="countryCode" value="UTC" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Africa/Lagos" />
+      <property name="code" value="WAT" />
+      <property name="countryCode" value="NG" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/New_York" />
+      <property name="code" value="EST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Tokyo" />
+      <property name="code" value="JST" />
+      <property name="countryCode" value="JP" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Santiago" />
+      <property name="code" value="CLST" />
+      <property name="countryCode" value="CL" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Paris" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="FR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Dhaka" />
+      <property name="code" value="BDT" />
+      <property name="countryCode" value="BD" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Moscow" />
+      <property name="code" value="MSK" />
+      <property name="countryCode" value="RU" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Juneau" />
+      <property name="code" value="AKDT" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Santiago" />
+      <property name="code" value="CLT" />
+      <property name="countryCode" value="CL" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Juneau" />
+      <property name="code" value="AKST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Sao_Paulo" />
+      <property name="code" value="BRST" />
+      <property name="countryCode" value="BR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Sao_Paulo" />
+      <property name="code" value="BRT" />
+      <property name="countryCode" value="BR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Paris" />
+      <property name="code" value="CEST" />
+      <property name="countryCode" value="FR" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Chicago" />
+      <property name="code" value="CST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Pacific/Honolulu" />
+      <property name="code" value="HST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Moscow" />
+      <property name="code" value="MSD" />
+      <property name="countryCode" value="RU" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="America/Denver" />
+      <property name="code" value="MST" />
+      <property name="countryCode" value="US" />
+      <property name="countryAlpha3Code" value="USA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Asia/Manila" />
+      <property name="code" value="PHT" />
+      <property name="countryCode" value="PH" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Lisbon" />
+      <property name="code" value="WET" />
+      <property name="countryCode" value="PT" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Berlin" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="DE" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Vienna" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="AT" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Amsterdam" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="NL" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Zurich" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="CH" />
+      <property name="countryAlpha3Code" value="CHE" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Rome" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="IT" />
+      <property name="countryAlpha3Code" value="ITA" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Madrid" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="ES" />
+      <property name="countryAlpha3Code" value="ESP" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Prague" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="CZ" />
+      <property name="countryAlpha3Code" value="CZE" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Brussels" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="BE" />
+      <property name="countryAlpha3Code" value="BEL" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Stockholm" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="SE" />
+      <property name="countryAlpha3Code" value="SWE" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Budapest" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="HU" />
+      <property name="countryAlpha3Code" value="HUN" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Warsaw" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="PL" />
+      <property name="countryAlpha3Code" value="POL" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Oslo" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="NO" />
+      <property name="countryAlpha3Code" value="NOR" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Zagreb" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="HR" />
+      <property name="countryAlpha3Code" value="HRV" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Bucharest" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="RO" />
+      <property name="countryAlpha3Code" value="ROU" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Helsinki" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="FI" />
+      <property name="countryAlpha3Code" value="FIN" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Sofia" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="BG" />
+      <property name="countryAlpha3Code" value="BGR" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Prague" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="CZ" />
+      <property name="countryAlpha3Code" value="CZE" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Copenhagen" />
+      <property name="code" value="CET" />
+      <property name="countryCode" value="DK" />
+      <property name="countryAlpha3Code" value="DNK" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Dublin" />
+      <property name="code" value="" />
+      <property name="countryCode" value="IE" />
+      <property name="countryAlpha3Code" value="IRL" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Athens" />
+      <property name="code" value="" />
+      <property name="countryCode" value="GR" />
+      <property name="countryAlpha3Code" value="GRC" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Bratislava" />
+      <property name="code" value="" />
+      <property name="countryCode" value="GR" />
+      <property name="countryAlpha3Code" value="SVK" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Belgrade" />
+      <property name="code" value="" />
+      <property name="countryCode" value="RS" />
+      <property name="countryAlpha3Code" value="RSB" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Skopje" />
+      <property name="code" value="" />
+      <property name="countryCode" value="MK" />
+      <property name="countryAlpha3Code" value="MKD" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Africa/Casablanca" />
+      <property name="code" value="" />
+      <property name="countryCode" value="MA" />
+      <property name="countryAlpha3Code" value="MAR" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Belgrade" />
+      <property name="code" value="" />
+      <property name="countryCode" value="YU" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Bratislava" />
+      <property name="code" value="" />
+      <property name="countryCode" value="SK" />
+      <property name="countryAlpha3Code" value="SVK" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Kiev" />
+      <property name="code" value="" />
+      <property name="countryCode" value="UA" />
+      <property name="countryAlpha3Code" value="UKR" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Luxembourg" />
+      <property name="code" value="" />
+      <property name="countryCode" value="LU" />
+      <property name="countryAlpha3Code" value="LUX" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Ljubljana" />
+      <property name="code" value="" />
+      <property name="countryCode" value="SI" />
+      <property name="countryAlpha3Code" value="SVN" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Skopje" />
+      <property name="code" value="" />
+      <property name="countryCode" value="MZ" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Minsk" />
+      <property name="code" value="" />
+      <property name="countryCode" value="BY" />
+      <property name="countryAlpha3Code" value="BLR" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Tallinn" />
+      <property name="code" value="" />
+      <property name="countryCode" value="SU" />
+      <property name="countryAlpha3Code" value="" />
+   </bean>
+   <bean class="timeZone">
+      <property name="name" value="Europe/Ljubljana" />
+      <property name="code" value="" />
+      <property name="countryCode" value="SI" />
+      <property name="countryAlpha3Code" value="SIHR" />
+   </bean>
+</list>
